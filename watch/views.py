@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
-from .forms import EditProfileForm,ProfileForm,CreateCommunityForm,BusinessForm,PostFor
+from .forms import EditProfileForm,ProfileForm,CreateCommunityForm,BusinessForm,PostForm
 from .models import Profile,Location,NeighbourHood,Business,Post
 from django.http import HttpResponseRedirect, Http404
 from django.shortcuts import render,redirect, get_object_or_404
