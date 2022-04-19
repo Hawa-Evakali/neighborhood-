@@ -35,11 +35,11 @@ https://github.com/Hawa-Evakali/neighborhood-.git
 pip install -r requirements.txt
 ```
 ## Known Bugs
-* Unfortunately my posts did not dispaly but as a user you can display yours.
+* No known bugs. 
 ## Screenshots
 * Login and sign-up page
 * Projects display
-* 
+* Business cards Dispaly
 
 ## License 
 Copyright (c) 2022 Hawa Evakali
