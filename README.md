@@ -38,8 +38,12 @@ pip install -r requirements.txt
 * No known bugs. 
 ## Screenshots
 * Login and sign-up page
+* ![Screenshot from 2022-04-16 21-51-18](https://user-images.githubusercontent.com/85121438/164107187-03fb3369-0ee3-4388-9355-7db0d9ed1c12.png)
+![Screenshot from 2022-04-16 21-51-23](https://user-images.githubusercontent.com/85121438/164107248-92166fa1-0ecc-4986-9503-cda7140d5dce.png)
 * Projects display
+![Screenshot from 2022-04-20 00-05-21](https://user-images.githubusercontent.com/85121438/164107306-8650e101-9752-488f-80aa-e972d910208f.png)
 * Business cards Dispaly
+![Screenshot from 2022-04-20 00-05-13](https://user-images.githubusercontent.com/85121438/164107343-abfaf56c-8a6b-48df-a443-95c0d20a06fd.png)
 
 ## License 
 Copyright (c) 2022 Hawa Evakali
