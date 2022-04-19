@@ -37,3 +37,5 @@ pip install -r requirements.txt
 ## Known Bugs
 * Unfortunately my posts did not dispaly but as a user you can display yours.
 
+## License 
+
