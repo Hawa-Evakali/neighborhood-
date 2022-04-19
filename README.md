@@ -36,6 +36,10 @@ pip install -r requirements.txt
 ```
 ## Known Bugs
 * Unfortunately my posts did not dispaly but as a user you can display yours.
+## Screenshots
+* Login and sign-up page
+* Projects display
+* 
 
 ## License 
 Copyright (c) 2022 Hawa Evakali
