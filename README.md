@@ -15,9 +15,9 @@ https://hoodawa.herokuapp.com/
 * Change My neighborhood when I decide to move out.
 * Only view details of a single neighborhood.
 ## Technologies used
-HTML
-CSS
-Bootstrap
-Python
-Heroku
+* HTML
+* CSS
+* Bootstrap
+* Python
+* Heroku
 
