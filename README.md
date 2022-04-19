@@ -20,4 +20,13 @@ https://hoodawa.herokuapp.com/
 * Bootstrap
 * Python
 * Heroku
+## Setup and Installation
+* Clone this repository
 
+```
+https://github.com/Hawa-Evakali/neighborhood-.git
+```
+* Install and activate Virtual
+```
+- python3 -m venv virtual - source virtual/bin/activate
+```
